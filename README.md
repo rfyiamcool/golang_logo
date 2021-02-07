@@ -1,3 +1,3 @@
 # golang_logo
 
-收集一些golang的高清LOGO图, 有些是google找的，有些是抠图抠出来的...
+在社区中收集到的 golang 高清LOGO图片
